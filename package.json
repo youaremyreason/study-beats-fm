@@ -1,13 +1,13 @@
 {
-  "name": "study-beats-fm",
+  "name": "Nguyen Thao Nguyen",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "Adam Patrick ",
+  "keywords": [emyeuthaonguyennhat],
+  "author": "Gia Linh Ne ",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^10.4.2",
